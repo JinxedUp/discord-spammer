@@ -1,2 +1,2 @@
 # discord-spammer
-most basic discord spammer on github
+an discord spammer made in python, super original and unique i know.
